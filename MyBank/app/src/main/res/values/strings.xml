@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyBank</string>
+
+    <array name="interestrate">
+        <item>"10%"</item>
+        <item>"15%"</item>
+        <item>"20%"</item>
+    </array>
+
+    <array name="periode">
+        <item>"3 months"</item>
+        <item>"6 months"</item>
+        <item>"12 months"</item>
+    </array>
+</resources>
